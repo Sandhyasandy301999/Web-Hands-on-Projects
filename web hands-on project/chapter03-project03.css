@@ -1,0 +1,46 @@
+body{
+    background-image:url(images/S.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+    }
+   
+    .text{
+    margin:50px;
+    padding:5px;
+    border: 2px solid black;
+    width:35%;
+    background-color:black;
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    opacity:0.5;
+    }
+    .info{
+    border: 2px solid black;
+    width:30%;
+    margin:50px;
+    }
+    .info h3{
+    margin:0px;
+    background-color:rgba(211, 211, 211, 0.336);
+    color:black;
+    padding:20px;
+     }
+     
+     .info p{
+     width:60%;
+     margin-left:10px;
+     color:black;
+     }
+     .info strong{
+    border: 2px solid black;
+    width:60%;
+    background-color:black;
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    opacity:0.5; 
+     }
+     .info section{
+     background-color:lightgrey;
+     margin-bottom:0px;
+     padding:10px;
+     }

@@ -1,0 +1,116 @@
+.nav{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+    background-color:grey;
+    }
+.nav li{
+    float:right;
+    }
+.nav li a{
+    display:block;
+    color:aqua;
+    padding:5px;
+    }
+#myid{
+    margin:0px;
+    background-color:darkslategray;
+    color:white;
+    text-align:left;
+    font-size:30px;
+    }
+.menu{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+    background-color:azure;
+    }
+.menu li{
+    float:left;
+    }
+.menu li a{
+    display:block;
+    color:cadetblue;
+    padding:5px;
+    }
+.pic{
+     margin-left:35%;
+    }
+    figcaption{
+        margin-left:10%;
+        font-size: 20px;
+    }
+.box{
+    border: 2px solid black;
+    width:70%;
+    margin-left:15%;
+    }
+.box h3{
+    padding:3px;
+    margin:0px;
+    background-color:darkslategray;
+    color:white;
+    }
+.box p{
+    margin:8px;
+    }
+.box button{
+    background-color:white;
+    color:cadetblue;
+    }
+.box section {
+    background-color:darkslategray;
+    padding:2px;
+    }
+.phone{
+     margin:15px;
+    border: 2px solid black;
+    width:70%;
+    margin-left:15%;
+    }
+.phone h3{
+    padding:3px;
+    margin:0px;
+    background-color:darkslategray;
+    color:white;
+    }
+.phone p{
+    margin:8px;
+    }
+.phone button{
+    background-color:white;
+    color:cadetblue;
+    }
+.phone section {
+    background-color:darkslategray;
+    padding:2px;
+    } 
+.sales{
+    border: 2px solid black;
+    width:70%;
+    margin:15px;
+    margin-left:15%;
+    }
+.sales h3{
+    padding:3px;
+    margin:0px;
+    background-color:darkslategray;
+    color:white;
+    }
+.copy{
+    border: 2px solid black;
+    width:70%;
+    margin-left:15%;
+    }
+.copy footer {
+    background-color:darkslategray;
+    padding:2px;
+    }
+.copy  a{
+    color:aqua;
+    }
+.copy p{
+    color:white;
+    }

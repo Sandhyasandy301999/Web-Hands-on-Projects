@@ -1,0 +1,19 @@
+header{
+    color:white;
+    background-color:#3D6271;
+}
+footer{
+    color:white;
+    background-color:#3D6271;
+}
+ul{
+    background-color:rgba(211, 211, 211, 0.336);
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    padding:10px;
+}
+.Share {
+    background-color:grey;
+    padding:5px;
+    width:30%;
+}
